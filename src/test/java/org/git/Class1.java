@@ -56,6 +56,11 @@ public class Class1 {
      driver.navigate().to("https://github.com/");
 	}
 	 
+	
+	private void method23() {
+    System.out.println("23");
+	}
+	
 
 	
 	
