@@ -14,5 +14,20 @@ public class Class1 {
 		 System.out.println();
 		}
 
+	 private void method4() {
+		 System.out.println();
+		}
+	 
+	 private void method5() {
+		 System.out.println();
+		}
+	 
+	 private void method6() {
+		 System.out.println();
+		}
+	 
+	 
+	 
+	 
 
 }
