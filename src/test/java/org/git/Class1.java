@@ -55,7 +55,15 @@ public class Class1 {
      WebDriver driver = new EdgeDriver();
      driver.navigate().to("https://github.com/");
 	}
+	
 	 
+	private void method23() {
+    System.out.println("Method 23");
+	}
+	
+	private void method24() {
+    System.out.println("Method 24");
+	}
 
 	
 	
